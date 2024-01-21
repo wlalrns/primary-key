@@ -1,2 +1,1 @@
-# primary-key
-001
+howtomakeaprimarykey
